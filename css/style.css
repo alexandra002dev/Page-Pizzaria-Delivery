@@ -24,7 +24,7 @@ nav {
 }
 
 .banner{
-    background-image: url("/css/imagem/fundo.png");
+    background-image: url("./css/imagem/fundo.png");
     background-position: center;
     background-size: cover;
     height:100vh;
@@ -96,7 +96,7 @@ nav {
     background-color:#f7b946;
 }
 .banner2{
-    background-image: url("/css/imagem/delivery\ pizzaria\ \(1\).png");
+    background-image: url("./css/imagem/delivery\ pizzaria\ \(1\).png");
     background-position: center;
     background-size: cover;
     width: 100wh;
