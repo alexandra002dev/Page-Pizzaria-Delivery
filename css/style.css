@@ -612,7 +612,6 @@ main {
         width: 100vw;
         left: 0vw;
         margin-right: 250px;
-        position: fixed;
     }
     nav{
         display: flex;
