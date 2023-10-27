@@ -345,14 +345,16 @@ nav {
 aside {
     background-color:#fffbfb;
     box-shadow:0px 0px 15px #333131;
-    width:0vw;
     font-family:'Hepta Slab', Helvetica, Arial;
     transition:all ease .2s;
-    overflow-x:hidden;
-    left: 100vw;
     display: flex;
     justify-content: center;
     height: 900px;
+    position:fixed;
+    left:0;
+    top:0;
+    bottom:0;
+    right:0;
 }
 aside.show {
     width:30vw;
